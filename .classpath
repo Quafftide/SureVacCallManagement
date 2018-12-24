@@ -14,8 +14,12 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/JOY J/Videos/Downloads/hibernate-core-5.3.0.Final.jar"/>
-	<classpathentry kind="lib" path="C:/Users/JOY J/Videos/Downloads/javax.servlet-api-4.0.1 (2).jar"/>
-	<classpathentry kind="lib" path="C:/Users/JOY J/Videos/Downloads/mysql-connector-java-8.0.11/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="WebContent/META-INF/lib/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="WebContent/META-INF/lib/struts2-core-2.5.18.jar"/>
+	<classpathentry kind="lib" path="WebContent/META-INF/lib/javax.servlet-api-4.0.1 (2).jar"/>
+	<classpathentry kind="lib" path="WebContent/META-INF/lib/javax.persistence-api-2.2 (1).jar"/>
+	<classpathentry kind="lib" path="WebContent/META-INF/lib/hibernate-core-5.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/META-INF/lib/hibernate-entitymanager-5.3.0.Final (1).jar"/>
+	<classpathentry kind="lib" path="WebContent/META-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
